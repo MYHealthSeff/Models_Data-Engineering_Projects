@@ -5,7 +5,7 @@ This dataset contains preprocessed medical billing data, including pricing, paye
 
 Data Source:
 * Extracted from real-world claims and reimbursement data
-* Cleaned and structured for predictive modelling and cost estimation
+* Cleaned and structured for predictive modeling and cost estimation
 
 File Details:
 * description: Medical procedure or product name
