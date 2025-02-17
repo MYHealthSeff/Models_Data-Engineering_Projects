@@ -1,0 +1,900 @@
+- ArrivalTime: '2024-07-10 16:22:47.361204'
+  Diagnosis: structure
+  DischargeTime: '2024-04-03 00:51:55.210012'
+  Outcome: Admitted
+  PatientID: dc73e123-c35e-4933-b74b-ddfde63e53d2
+  PatientSatisfactionScore: 3.365552360037695
+  TreatmentCost: 607
+  TreatmentStartTime: '2024-01-18 15:34:09.735310'
+  TriageTime: '2024-09-15 13:31:30.451811'
+- ArrivalTime: '2024-01-23 12:06:07.448607'
+  Diagnosis: decision
+  DischargeTime: '2024-06-17 09:07:48.854037'
+  Outcome: Discharged
+  PatientID: da953c88-eb05-4ecb-8c52-e4db38c67372
+  PatientSatisfactionScore: 1.2543051571571158
+  TreatmentCost: 2153
+  TreatmentStartTime: '2024-01-13 01:10:07.473705'
+  TriageTime: '2024-04-10 12:01:48.998574'
+- ArrivalTime: '2024-05-21 23:11:59.948219'
+  Diagnosis: peace
+  DischargeTime: '2024-05-19 19:32:58.311641'
+  Outcome: Referred
+  PatientID: 1d2b81a8-a40d-40f7-8db3-e53289b29c6d
+  PatientSatisfactionScore: 3.521499998069047
+  TreatmentCost: 2176
+  TreatmentStartTime: '2024-08-18 10:50:50.036073'
+  TriageTime: '2024-06-13 06:22:44.926107'
+- ArrivalTime: '2024-03-24 14:27:20.207615'
+  Diagnosis: claim
+  DischargeTime: '2024-06-17 01:14:37.276500'
+  Outcome: Admitted
+  PatientID: fa5f0bba-1ab2-439c-a091-b3f11ffbda92
+  PatientSatisfactionScore: 1.795833294400659
+  TreatmentCost: 1761
+  TreatmentStartTime: '2024-03-02 15:43:46.739473'
+  TriageTime: '2024-07-17 09:33:33.888304'
+- ArrivalTime: '2024-04-15 17:56:22.155422'
+  Diagnosis: believe
+  DischargeTime: '2024-05-20 13:39:55.080571'
+  Outcome: Referred
+  PatientID: 669c678d-6eaa-4c1a-b220-90ee38f3e427
+  PatientSatisfactionScore: 2.016314496091967
+  TreatmentCost: 2747
+  TreatmentStartTime: '2024-02-06 18:55:51.137057'
+  TriageTime: '2024-04-14 09:15:34.020775'
+- ArrivalTime: '2024-07-03 16:02:44.774510'
+  Diagnosis: artist
+  DischargeTime: '2024-03-04 21:34:44.030023'
+  Outcome: Discharged
+  PatientID: b0def846-dd17-4a6a-a572-6934889d6625
+  PatientSatisfactionScore: 1.1940693857725655
+  TreatmentCost: 1837
+  TreatmentStartTime: '2024-07-03 22:36:31.220685'
+  TriageTime: '2024-06-27 04:23:28.733968'
+- ArrivalTime: '2024-08-31 15:44:41.147674'
+  Diagnosis: effort
+  DischargeTime: '2024-08-05 19:50:07.550364'
+  Outcome: Admitted
+  PatientID: 4690caf5-de60-44c0-bc29-937434b9ae8b
+  PatientSatisfactionScore: 2.916983862365041
+  TreatmentCost: 3577
+  TreatmentStartTime: '2024-05-28 17:39:01.780886'
+  TriageTime: '2024-01-25 17:57:40.047647'
+- ArrivalTime: '2024-04-16 00:57:21.811241'
+  Diagnosis: effect
+  DischargeTime: '2024-01-13 13:33:15.365652'
+  Outcome: Admitted
+  PatientID: cb73a6fa-43f9-4717-b68b-bb98eb7aad10
+  PatientSatisfactionScore: 4.771994564936593
+  TreatmentCost: 3950
+  TreatmentStartTime: '2024-04-02 10:25:18.111906'
+  TriageTime: '2024-07-22 16:22:43.117595'
+- ArrivalTime: '2024-05-22 15:29:19.379912'
+  Diagnosis: technology
+  DischargeTime: '2024-06-27 06:38:37.557896'
+  Outcome: Referred
+  PatientID: 547e187a-f995-4686-a064-6e210742d76a
+  PatientSatisfactionScore: 2.8363521371905516
+  TreatmentCost: 1068
+  TreatmentStartTime: '2024-09-04 11:34:26.000405'
+  TriageTime: '2024-05-01 04:46:37.070370'
+- ArrivalTime: '2024-03-08 15:05:47.489364'
+  Diagnosis: edge
+  DischargeTime: '2024-07-12 00:45:01.588042'
+  Outcome: Admitted
+  PatientID: 54f11b37-6d47-445a-ae74-a0d0f609abe4
+  PatientSatisfactionScore: 4.533942355840191
+  TreatmentCost: 4918
+  TreatmentStartTime: '2024-07-12 10:15:29.839868'
+  TriageTime: '2024-05-08 10:25:03.718641'
+- ArrivalTime: '2024-01-26 10:45:00.047105'
+  Diagnosis: effect
+  DischargeTime: '2024-06-15 06:44:07.272419'
+  Outcome: Admitted
+  PatientID: 13fe93e2-1c48-43c9-af39-3ac74a6a095c
+  PatientSatisfactionScore: 4.03476597850312
+  TreatmentCost: 911
+  TreatmentStartTime: '2024-05-15 07:20:08.636474'
+  TriageTime: '2024-02-25 10:24:21.702019'
+- ArrivalTime: '2024-06-14 12:23:34.493501'
+  Diagnosis: democratic
+  DischargeTime: '2024-01-26 20:56:38.338930'
+  Outcome: Referred
+  PatientID: b79ee3be-c6e8-448b-af73-31396f5d1e2e
+  PatientSatisfactionScore: 1.5040536977265295
+  TreatmentCost: 2743
+  TreatmentStartTime: '2024-08-13 05:02:07.860615'
+  TriageTime: '2024-03-04 04:44:06.388280'
+- ArrivalTime: '2024-05-31 05:51:52.916368'
+  Diagnosis: campaign
+  DischargeTime: '2024-08-06 05:25:30.797056'
+  Outcome: Discharged
+  PatientID: c83a882f-cbd1-49ea-a496-fb0f4be55676
+  PatientSatisfactionScore: 4.954771408432781
+  TreatmentCost: 1776
+  TreatmentStartTime: '2024-01-02 23:28:52.869145'
+  TriageTime: '2024-08-14 11:21:53.293868'
+- ArrivalTime: '2024-02-21 13:45:59.270407'
+  Diagnosis: structure
+  DischargeTime: '2024-03-09 23:39:26.213348'
+  Outcome: Referred
+  PatientID: b51e69cf-6c01-4761-806f-5139c20c2b2f
+  PatientSatisfactionScore: 3.909222198771306
+  TreatmentCost: 2020
+  TreatmentStartTime: '2024-06-30 14:13:48.704678'
+  TriageTime: '2024-09-07 03:44:34.623359'
+- ArrivalTime: '2024-08-15 19:44:03.730055'
+  Diagnosis: whole
+  DischargeTime: '2024-02-20 21:03:41.419049'
+  Outcome: Discharged
+  PatientID: 71dd8294-3bb4-4b66-817a-5ebe60441c8a
+  PatientSatisfactionScore: 4.865297668833723
+  TreatmentCost: 2521
+  TreatmentStartTime: '2024-03-08 19:38:54.127140'
+  TriageTime: '2024-03-14 03:43:40.531487'
+- ArrivalTime: '2024-02-06 09:10:32.619098'
+  Diagnosis: be
+  DischargeTime: '2024-05-02 15:22:37.100825'
+  Outcome: Discharged
+  PatientID: 71e7cb06-5ba7-47de-ac72-89433d2e8693
+  PatientSatisfactionScore: 2.6393922547218596
+  TreatmentCost: 687
+  TreatmentStartTime: '2024-02-06 07:03:45.061347'
+  TriageTime: '2024-06-29 09:21:25.916524'
+- ArrivalTime: '2024-06-25 01:22:51.183448'
+  Diagnosis: place
+  DischargeTime: '2024-08-09 17:55:44.200806'
+  Outcome: Admitted
+  PatientID: c048841e-13ea-4b1f-90dc-10547046ba7a
+  PatientSatisfactionScore: 3.292069014611931
+  TreatmentCost: 4928
+  TreatmentStartTime: '2024-04-26 21:35:30.632309'
+  TriageTime: '2024-05-03 16:07:25.786840'
+- ArrivalTime: '2024-05-01 17:11:42.420808'
+  Diagnosis: represent
+  DischargeTime: '2024-08-20 03:57:48.944589'
+  Outcome: Referred
+  PatientID: dd2d57d9-7dec-4e2e-a392-8ecc2bc1fefa
+  PatientSatisfactionScore: 1.8030750860582576
+  TreatmentCost: 173
+  TreatmentStartTime: '2024-06-04 18:34:24.394060'
+  TriageTime: '2024-07-29 19:54:57.571743'
+- ArrivalTime: '2024-02-16 03:10:16.785749'
+  Diagnosis: hotel
+  DischargeTime: '2024-06-20 06:02:08.066342'
+  Outcome: Admitted
+  PatientID: 7631d9f1-af9d-4453-87bc-8245e702e0cf
+  PatientSatisfactionScore: 1.5934404612435156
+  TreatmentCost: 1245
+  TreatmentStartTime: '2024-04-21 11:15:14.656890'
+  TriageTime: '2024-06-27 13:32:31.492435'
+- ArrivalTime: '2024-09-08 14:50:05.257189'
+  Diagnosis: play
+  DischargeTime: '2024-01-26 14:15:39.218027'
+  Outcome: Discharged
+  PatientID: 7f0b2141-4ad5-467a-bbf3-dcbff4ae406d
+  PatientSatisfactionScore: 2.3137788409001425
+  TreatmentCost: 2204
+  TreatmentStartTime: '2024-02-07 17:41:37.636209'
+  TriageTime: '2024-05-16 16:51:43.709610'
+- ArrivalTime: '2024-03-11 23:28:57.460775'
+  Diagnosis: easy
+  DischargeTime: '2024-05-17 17:51:18.799817'
+  Outcome: Referred
+  PatientID: c434ab49-8704-4a1a-b6d6-b7da64f756bd
+  PatientSatisfactionScore: 4.716077106855871
+  TreatmentCost: 1938
+  TreatmentStartTime: '2024-04-29 14:29:29.693564'
+  TriageTime: '2024-05-06 11:50:47.458530'
+- ArrivalTime: '2024-04-09 16:30:55.046783'
+  Diagnosis: check
+  DischargeTime: '2024-03-14 08:28:52.649505'
+  Outcome: Referred
+  PatientID: 1bd66fa1-6ce6-4146-9be1-dcf1c7ae948c
+  PatientSatisfactionScore: 4.027813800271037
+  TreatmentCost: 4835
+  TreatmentStartTime: '2024-02-05 14:33:02.681445'
+  TriageTime: '2024-01-26 02:11:19.322091'
+- ArrivalTime: '2024-05-12 11:46:05.872228'
+  Diagnosis: daughter
+  DischargeTime: '2024-08-17 08:18:52.186909'
+  Outcome: Referred
+  PatientID: fd5e5848-c472-439d-ac50-1db1293f3ccd
+  PatientSatisfactionScore: 2.891841224155876
+  TreatmentCost: 289
+  TreatmentStartTime: '2024-07-13 08:11:48.469268'
+  TriageTime: '2024-03-03 07:21:00.038656'
+- ArrivalTime: '2024-06-20 09:04:57.675759'
+  Diagnosis: government
+  DischargeTime: '2024-04-20 06:51:24.776460'
+  Outcome: Admitted
+  PatientID: 846c8659-c38d-435b-abe2-74f1eb174cec
+  PatientSatisfactionScore: 1.318818769329126
+  TreatmentCost: 2043
+  TreatmentStartTime: '2024-01-10 15:34:02.671041'
+  TriageTime: '2024-05-06 19:12:24.337143'
+- ArrivalTime: '2024-02-17 21:13:30.841527'
+  Diagnosis: research
+  DischargeTime: '2024-02-20 13:09:07.115625'
+  Outcome: Discharged
+  PatientID: 3dae95af-a8a4-4869-825f-dd671d7c35bd
+  PatientSatisfactionScore: 4.4131290098147975
+  TreatmentCost: 1547
+  TreatmentStartTime: '2024-09-14 12:09:56.033873'
+  TriageTime: '2024-03-22 14:19:30.036968'
+- ArrivalTime: '2024-05-24 10:55:05.847402'
+  Diagnosis: avoid
+  DischargeTime: '2024-07-18 04:52:32.936650'
+  Outcome: Discharged
+  PatientID: 992f7b14-f78a-436d-ba64-5e194c7d10b5
+  PatientSatisfactionScore: 4.700129524164961
+  TreatmentCost: 3806
+  TreatmentStartTime: '2024-02-28 17:40:34.730278'
+  TriageTime: '2024-09-11 03:58:06.689125'
+- ArrivalTime: '2024-05-05 16:26:45.764466'
+  Diagnosis: very
+  DischargeTime: '2024-01-14 14:55:10.186075'
+  Outcome: Referred
+  PatientID: f9d4020b-3720-445e-8c2b-a8c53674949b
+  PatientSatisfactionScore: 1.1248466258257657
+  TreatmentCost: 675
+  TreatmentStartTime: '2024-07-20 20:58:06.096793'
+  TriageTime: '2024-03-08 10:17:58.294678'
+- ArrivalTime: '2024-04-03 18:32:45.739412'
+  Diagnosis: yard
+  DischargeTime: '2024-06-01 21:54:04.530461'
+  Outcome: Discharged
+  PatientID: 50f4d384-2bc0-4760-b5e0-4fac12a7ffd1
+  PatientSatisfactionScore: 3.140398711769075
+  TreatmentCost: 2112
+  TreatmentStartTime: '2024-07-07 15:59:24.600898'
+  TriageTime: '2024-02-07 19:06:27.202348'
+- ArrivalTime: '2024-09-08 18:17:32.543839'
+  Diagnosis: fire
+  DischargeTime: '2024-04-22 09:36:30.800125'
+  Outcome: Admitted
+  PatientID: f0cb33ab-b175-4afe-9e45-b0a5281efe22
+  PatientSatisfactionScore: 3.3457612125011797
+  TreatmentCost: 3358
+  TreatmentStartTime: '2024-07-11 13:43:45.885710'
+  TriageTime: '2024-07-30 05:27:28.163497'
+- ArrivalTime: '2024-02-20 10:21:54.960387'
+  Diagnosis: yeah
+  DischargeTime: '2024-04-06 21:40:02.307363'
+  Outcome: Referred
+  PatientID: 809db6ea-f53b-42f7-8083-3ebee5e69108
+  PatientSatisfactionScore: 4.737304314069705
+  TreatmentCost: 1743
+  TreatmentStartTime: '2024-01-22 02:37:02.770626'
+  TriageTime: '2024-04-05 07:38:29.059187'
+- ArrivalTime: '2024-05-23 01:13:30.153044'
+  Diagnosis: system
+  DischargeTime: '2024-01-21 07:50:14.203889'
+  Outcome: Discharged
+  PatientID: cc8c3061-6618-454e-893d-f4e29fec325f
+  PatientSatisfactionScore: 2.501776118683623
+  TreatmentCost: 1175
+  TreatmentStartTime: '2024-08-06 21:52:30.099725'
+  TriageTime: '2024-04-09 08:41:40.347760'
+- ArrivalTime: '2024-06-28 19:25:37.458223'
+  Diagnosis: buy
+  DischargeTime: '2024-04-08 08:58:28.612476'
+  Outcome: Discharged
+  PatientID: 04556aa0-6c56-4482-9caa-fe0ac4852abf
+  PatientSatisfactionScore: 1.3641200362568502
+  TreatmentCost: 3260
+  TreatmentStartTime: '2024-03-14 07:57:28.626682'
+  TriageTime: '2024-01-02 03:56:02.842089'
+- ArrivalTime: '2024-07-23 06:45:09.798093'
+  Diagnosis: social
+  DischargeTime: '2024-01-17 11:16:47.654401'
+  Outcome: Referred
+  PatientID: ed4e5d41-4b84-444f-b1a0-6aa8412d0b34
+  PatientSatisfactionScore: 3.8780539711572968
+  TreatmentCost: 1024
+  TreatmentStartTime: '2024-03-07 04:02:05.647887'
+  TriageTime: '2024-05-28 09:48:53.114178'
+- ArrivalTime: '2024-02-01 09:00:12.749524'
+  Diagnosis: up
+  DischargeTime: '2024-08-12 10:42:19.432781'
+  Outcome: Discharged
+  PatientID: cbb81bfc-5c7e-458f-a9dc-c55d9f6a59f6
+  PatientSatisfactionScore: 2.094369532035056
+  TreatmentCost: 1720
+  TreatmentStartTime: '2024-01-18 16:28:24.262131'
+  TriageTime: '2024-08-28 14:04:30.851704'
+- ArrivalTime: '2024-09-01 06:05:22.110277'
+  Diagnosis: unit
+  DischargeTime: '2024-04-30 06:09:09.256110'
+  Outcome: Referred
+  PatientID: a0584bdb-280f-4d36-a4b7-f0853b6290e3
+  PatientSatisfactionScore: 3.725199285209693
+  TreatmentCost: 2423
+  TreatmentStartTime: '2024-02-16 13:17:57.736832'
+  TriageTime: '2024-03-03 22:34:49.728702'
+- ArrivalTime: '2024-05-23 02:08:19.186241'
+  Diagnosis: great
+  DischargeTime: '2024-01-21 11:54:46.861646'
+  Outcome: Discharged
+  PatientID: 0a1d58e5-b104-49dd-8a1c-b0bded55c9a4
+  PatientSatisfactionScore: 4.7460488035916875
+  TreatmentCost: 3582
+  TreatmentStartTime: '2024-07-29 10:26:11.597372'
+  TriageTime: '2024-03-09 13:33:29.901795'
+- ArrivalTime: '2024-02-23 18:26:16.745869'
+  Diagnosis: raise
+  DischargeTime: '2024-05-26 13:23:33.724754'
+  Outcome: Discharged
+  PatientID: cb1f23c8-8717-4607-9ee1-aec92a4263d8
+  PatientSatisfactionScore: 4.1919230111068515
+  TreatmentCost: 3041
+  TreatmentStartTime: '2024-04-20 22:30:59.944996'
+  TriageTime: '2024-06-22 08:22:39.057961'
+- ArrivalTime: '2024-09-05 09:40:02.869761'
+  Diagnosis: beat
+  DischargeTime: '2024-08-23 13:53:51.239796'
+  Outcome: Discharged
+  PatientID: c8156711-7175-47be-a8ee-78d75615e7be
+  PatientSatisfactionScore: 4.623247545601366
+  TreatmentCost: 374
+  TreatmentStartTime: '2024-05-28 00:39:52.929075'
+  TriageTime: '2024-06-16 04:52:53.098511'
+- ArrivalTime: '2024-08-17 16:19:54.047351'
+  Diagnosis: investment
+  DischargeTime: '2024-02-09 04:02:55.104234'
+  Outcome: Referred
+  PatientID: 1ff3d450-edcd-4d64-8a72-e551749386ee
+  PatientSatisfactionScore: 3.5188732275289767
+  TreatmentCost: 1127
+  TreatmentStartTime: '2024-02-04 03:37:12.902657'
+  TriageTime: '2024-05-01 13:31:59.444034'
+- ArrivalTime: '2024-06-17 06:48:13.667673'
+  Diagnosis: decide
+  DischargeTime: '2024-02-19 02:27:43.570921'
+  Outcome: Referred
+  PatientID: 14ffff2f-6695-4ebd-87d8-14a180786d40
+  PatientSatisfactionScore: 4.735940501887134
+  TreatmentCost: 4342
+  TreatmentStartTime: '2024-05-03 15:45:33.235946'
+  TriageTime: '2024-03-04 02:18:16.613181'
+- ArrivalTime: '2024-07-07 14:56:30.375536'
+  Diagnosis: open
+  DischargeTime: '2024-08-23 05:46:27.319431'
+  Outcome: Referred
+  PatientID: dd62bbde-8848-4002-b162-1dea7c1dcf5d
+  PatientSatisfactionScore: 1.894187150537037
+  TreatmentCost: 1207
+  TreatmentStartTime: '2024-01-31 15:06:40.581187'
+  TriageTime: '2024-02-19 22:12:12.474211'
+- ArrivalTime: '2024-03-07 01:17:04.434920'
+  Diagnosis: where
+  DischargeTime: '2024-09-06 08:13:03.781181'
+  Outcome: Admitted
+  PatientID: 006e7de4-4903-4788-9bb9-46395248b6d4
+  PatientSatisfactionScore: 1.0934472569477398
+  TreatmentCost: 933
+  TreatmentStartTime: '2024-09-05 00:20:50.331954'
+  TriageTime: '2024-02-13 08:38:30.656543'
+- ArrivalTime: '2024-04-18 06:09:09.750004'
+  Diagnosis: investment
+  DischargeTime: '2024-03-21 05:07:08.412315'
+  Outcome: Referred
+  PatientID: 479dd31b-d6b8-498e-9c6f-a9fba663217b
+  PatientSatisfactionScore: 4.337827388621661
+  TreatmentCost: 4204
+  TreatmentStartTime: '2024-06-26 22:02:23.220889'
+  TriageTime: '2024-06-30 06:48:28.995819'
+- ArrivalTime: '2024-03-08 22:10:53.658037'
+  Diagnosis: detail
+  DischargeTime: '2024-05-06 18:36:23.735455'
+  Outcome: Admitted
+  PatientID: fe93bb89-7348-4aff-9dc8-be5efe8a4013
+  PatientSatisfactionScore: 4.879505247150293
+  TreatmentCost: 4688
+  TreatmentStartTime: '2024-09-15 12:45:45.116920'
+  TriageTime: '2024-01-28 11:59:18.346981'
+- ArrivalTime: '2024-02-05 19:16:36.393919'
+  Diagnosis: century
+  DischargeTime: '2024-08-19 09:03:48.310069'
+  Outcome: Referred
+  PatientID: 1aedc268-6691-45ae-b99e-57ab0b1ee2f6
+  PatientSatisfactionScore: 2.1801365324760735
+  TreatmentCost: 3025
+  TreatmentStartTime: '2024-07-09 11:26:17.035817'
+  TriageTime: '2024-01-10 07:31:44.830989'
+- ArrivalTime: '2024-05-14 00:57:11.562859'
+  Diagnosis: nearly
+  DischargeTime: '2024-02-14 10:16:16.059127'
+  Outcome: Admitted
+  PatientID: 0776bd42-d0d0-4e91-b18c-5c27b5e2db9b
+  PatientSatisfactionScore: 2.5975250106336993
+  TreatmentCost: 3068
+  TreatmentStartTime: '2024-01-18 20:49:45.491719'
+  TriageTime: '2024-07-24 05:10:56.296868'
+- ArrivalTime: '2024-06-11 22:50:36.015308'
+  Diagnosis: itself
+  DischargeTime: '2024-06-29 09:05:30.219164'
+  Outcome: Referred
+  PatientID: fea4504c-24ad-4a60-a9e2-b8526018d8aa
+  PatientSatisfactionScore: 3.4810841640346215
+  TreatmentCost: 4792
+  TreatmentStartTime: '2024-07-05 10:45:03.246687'
+  TriageTime: '2024-08-05 22:02:16.960703'
+- ArrivalTime: '2024-05-08 02:32:09.362507'
+  Diagnosis: tough
+  DischargeTime: '2024-06-04 17:45:53.566663'
+  Outcome: Discharged
+  PatientID: 4d63402f-75ae-44e5-adf6-806efc9d2a11
+  PatientSatisfactionScore: 4.061771842667287
+  TreatmentCost: 1160
+  TreatmentStartTime: '2024-08-29 18:13:59.687502'
+  TriageTime: '2024-07-04 03:03:09.811481'
+- ArrivalTime: '2024-08-19 04:41:16.300846'
+  Diagnosis: before
+  DischargeTime: '2024-02-04 23:12:26.414045'
+  Outcome: Admitted
+  PatientID: cbbaad45-92ae-482d-9656-691b816aabf9
+  PatientSatisfactionScore: 3.498087168284119
+  TreatmentCost: 1220
+  TreatmentStartTime: '2024-08-17 22:12:19.479292'
+  TriageTime: '2024-04-17 22:29:22.965543'
+- ArrivalTime: '2024-02-18 23:02:27.264598'
+  Diagnosis: soon
+  DischargeTime: '2024-07-09 07:40:45.429876'
+  Outcome: Admitted
+  PatientID: 4516c929-22ef-4765-8e2a-a216e33422a9
+  PatientSatisfactionScore: 2.495753860754408
+  TreatmentCost: 4819
+  TreatmentStartTime: '2024-02-16 00:48:58.771085'
+  TriageTime: '2024-02-16 04:09:26.571378'
+- ArrivalTime: '2024-01-18 17:18:02.253337'
+  Diagnosis: reach
+  DischargeTime: '2024-01-28 07:30:47.642787'
+  Outcome: Discharged
+  PatientID: 5f768a59-0d09-4f79-b299-faf8bee9d9dd
+  PatientSatisfactionScore: 3.23716519070666
+  TreatmentCost: 3032
+  TreatmentStartTime: '2024-06-02 13:45:22.781384'
+  TriageTime: '2024-01-01 06:24:11.476815'
+- ArrivalTime: '2024-04-20 09:15:31.510017'
+  Diagnosis: meeting
+  DischargeTime: '2024-05-25 19:03:15.562565'
+  Outcome: Referred
+  PatientID: 8c56808d-b228-4885-8a3b-913816270f75
+  PatientSatisfactionScore: 2.1779888740299116
+  TreatmentCost: 2574
+  TreatmentStartTime: '2024-08-01 04:09:55.927664'
+  TriageTime: '2024-03-07 00:00:16.405472'
+- ArrivalTime: '2024-02-06 23:04:40.856894'
+  Diagnosis: with
+  DischargeTime: '2024-05-24 18:10:02.303641'
+  Outcome: Admitted
+  PatientID: 7ec31d40-4724-4c77-89b8-d79d157e9435
+  PatientSatisfactionScore: 2.974272137582875
+  TreatmentCost: 2965
+  TreatmentStartTime: '2024-08-29 12:17:13.120373'
+  TriageTime: '2024-04-12 13:52:05.701581'
+- ArrivalTime: '2024-09-10 04:21:25.591473'
+  Diagnosis: drive
+  DischargeTime: '2024-06-02 12:29:33.375443'
+  Outcome: Referred
+  PatientID: d4213143-5d29-459b-b1dd-574c9ea76d0e
+  PatientSatisfactionScore: 1.247541190820261
+  TreatmentCost: 2854
+  TreatmentStartTime: '2024-05-31 12:47:27.387833'
+  TriageTime: '2024-06-23 02:26:14.867772'
+- ArrivalTime: '2024-07-07 13:27:32.007605'
+  Diagnosis: skin
+  DischargeTime: '2024-01-27 01:44:09.418715'
+  Outcome: Admitted
+  PatientID: 1a111fbb-5565-4f3e-b5ec-1733de0c6477
+  PatientSatisfactionScore: 3.138406600208844
+  TreatmentCost: 1425
+  TreatmentStartTime: '2024-02-06 11:48:24.962626'
+  TriageTime: '2024-03-17 13:56:34.282435'
+- ArrivalTime: '2024-06-10 05:43:50.462038'
+  Diagnosis: manage
+  DischargeTime: '2024-03-28 20:35:53.920742'
+  Outcome: Referred
+  PatientID: 992f6870-21d7-4657-8a58-c37bd525eef8
+  PatientSatisfactionScore: 3.735241408418932
+  TreatmentCost: 1589
+  TreatmentStartTime: '2024-04-30 05:15:17.684724'
+  TriageTime: '2024-03-24 15:01:28.362065'
+- ArrivalTime: '2024-01-07 19:55:53.489680'
+  Diagnosis: team
+  DischargeTime: '2024-05-01 04:41:24.513878'
+  Outcome: Referred
+  PatientID: e7777a5e-acdf-4d37-b076-3c8758444b23
+  PatientSatisfactionScore: 4.596423553434009
+  TreatmentCost: 914
+  TreatmentStartTime: '2024-07-28 03:46:04.113527'
+  TriageTime: '2024-07-11 17:24:32.903241'
+- ArrivalTime: '2024-06-30 18:04:27.676163'
+  Diagnosis: top
+  DischargeTime: '2024-01-05 18:13:56.559969'
+  Outcome: Discharged
+  PatientID: 26aa7c1c-7d28-4c7e-bf18-0b1a1087260f
+  PatientSatisfactionScore: 4.446184877785066
+  TreatmentCost: 4215
+  TreatmentStartTime: '2024-07-14 08:30:16.288608'
+  TriageTime: '2024-04-23 01:01:49.043994'
+- ArrivalTime: '2024-04-29 01:21:52.023942'
+  Diagnosis: its
+  DischargeTime: '2024-04-07 01:10:30.044906'
+  Outcome: Admitted
+  PatientID: ad046607-1bd0-4eac-8cda-dedc7d63e278
+  PatientSatisfactionScore: 1.9160697253770465
+  TreatmentCost: 3092
+  TreatmentStartTime: '2024-06-22 05:20:18.464962'
+  TriageTime: '2024-01-23 17:18:57.269257'
+- ArrivalTime: '2024-06-22 10:00:04.390363'
+  Diagnosis: up
+  DischargeTime: '2024-06-02 20:47:39.256048'
+  Outcome: Admitted
+  PatientID: 393338e5-36a9-42a1-a340-1669ebe8636a
+  PatientSatisfactionScore: 3.34661295959029
+  TreatmentCost: 2616
+  TreatmentStartTime: '2024-07-08 19:19:35.961324'
+  TriageTime: '2024-04-23 01:27:42.567184'
+- ArrivalTime: '2024-06-08 07:40:13.474567'
+  Diagnosis: side
+  DischargeTime: '2024-09-09 14:15:50.791359'
+  Outcome: Referred
+  PatientID: cfb59f1c-5bcb-4f91-b960-5c9a3a862b96
+  PatientSatisfactionScore: 3.9184715092016065
+  TreatmentCost: 3645
+  TreatmentStartTime: '2024-06-04 13:34:02.315252'
+  TriageTime: '2024-01-13 04:44:00.520569'
+- ArrivalTime: '2024-06-09 02:36:24.094666'
+  Diagnosis: stand
+  DischargeTime: '2024-04-18 21:58:30.528991'
+  Outcome: Admitted
+  PatientID: 74f01938-c314-4027-b3c7-7e63174f8ef9
+  PatientSatisfactionScore: 3.4298054306378196
+  TreatmentCost: 4954
+  TreatmentStartTime: '2024-04-19 00:03:41.686790'
+  TriageTime: '2024-08-24 19:26:19.283650'
+- ArrivalTime: '2024-04-19 15:52:59.296327'
+  Diagnosis: ability
+  DischargeTime: '2024-01-30 23:57:42.269075'
+  Outcome: Discharged
+  PatientID: f0759f90-7fe2-411b-9de4-987b817b707f
+  PatientSatisfactionScore: 3.8212905158012336
+  TreatmentCost: 159
+  TreatmentStartTime: '2024-04-05 19:00:06.304472'
+  TriageTime: '2024-04-24 01:24:53.160697'
+- ArrivalTime: '2024-06-08 02:33:14.296979'
+  Diagnosis: result
+  DischargeTime: '2024-08-05 13:09:16.835142'
+  Outcome: Admitted
+  PatientID: b3b90fc4-f86b-483f-b0e2-898ba295c555
+  PatientSatisfactionScore: 2.7250306566693085
+  TreatmentCost: 1943
+  TreatmentStartTime: '2024-09-06 14:52:19.861702'
+  TriageTime: '2024-03-12 01:46:40.259173'
+- ArrivalTime: '2024-01-19 06:25:54.156944'
+  Diagnosis: red
+  DischargeTime: '2024-02-16 11:25:56.694301'
+  Outcome: Referred
+  PatientID: 588da8f4-737e-4b66-a603-5730cdd04141
+  PatientSatisfactionScore: 2.005869489583019
+  TreatmentCost: 2117
+  TreatmentStartTime: '2024-02-08 08:24:03.405205'
+  TriageTime: '2024-03-01 20:42:37.324116'
+- ArrivalTime: '2024-03-06 18:15:11.291043'
+  Diagnosis: unit
+  DischargeTime: '2024-03-13 08:47:17.344339'
+  Outcome: Referred
+  PatientID: 29bda679-8ace-4f10-a340-66e0d87afcc9
+  PatientSatisfactionScore: 4.6829584858670295
+  TreatmentCost: 3511
+  TreatmentStartTime: '2024-04-06 12:55:22.514975'
+  TriageTime: '2024-09-01 22:27:43.513395'
+- ArrivalTime: '2024-05-15 10:52:23.577983'
+  Diagnosis: because
+  DischargeTime: '2024-03-20 09:13:00.951641'
+  Outcome: Referred
+  PatientID: 09ac8211-689c-4476-8b40-489c79df3083
+  PatientSatisfactionScore: 2.1631380672110354
+  TreatmentCost: 4680
+  TreatmentStartTime: '2024-01-02 17:00:42.323144'
+  TriageTime: '2024-04-18 08:22:03.002911'
+- ArrivalTime: '2024-07-12 20:22:04.840835'
+  Diagnosis: road
+  DischargeTime: '2024-03-26 04:13:35.067859'
+  Outcome: Discharged
+  PatientID: e13837a2-ce8e-416c-95b6-9f1567e41f9d
+  PatientSatisfactionScore: 1.976581608681462
+  TreatmentCost: 3077
+  TreatmentStartTime: '2024-08-28 22:21:12.165712'
+  TriageTime: '2024-02-11 20:59:28.233375'
+- ArrivalTime: '2024-08-15 05:23:20.415176'
+  Diagnosis: south
+  DischargeTime: '2024-03-22 08:00:34.808530'
+  Outcome: Admitted
+  PatientID: a5384405-42bc-446c-ada3-c72acbcb64bc
+  PatientSatisfactionScore: 2.4240637441272153
+  TreatmentCost: 600
+  TreatmentStartTime: '2024-04-25 17:05:57.232942'
+  TriageTime: '2024-02-17 23:31:23.536849'
+- ArrivalTime: '2024-07-07 07:20:17.783204'
+  Diagnosis: or
+  DischargeTime: '2024-06-27 09:17:02.155355'
+  Outcome: Discharged
+  PatientID: 4acab3e0-e53c-4b5c-bcdf-1010e81cb70c
+  PatientSatisfactionScore: 2.4599140037092773
+  TreatmentCost: 803
+  TreatmentStartTime: '2024-07-27 06:19:13.864736'
+  TriageTime: '2024-08-02 00:34:28.047862'
+- ArrivalTime: '2024-02-26 21:52:21.089035'
+  Diagnosis: team
+  DischargeTime: '2024-06-21 13:33:18.300297'
+  Outcome: Admitted
+  PatientID: 757f6dd5-744b-4a77-a843-6317dcc262bd
+  PatientSatisfactionScore: 4.4632943672044405
+  TreatmentCost: 3175
+  TreatmentStartTime: '2024-04-30 02:41:30.147474'
+  TriageTime: '2024-01-19 15:14:12.233914'
+- ArrivalTime: '2024-05-21 13:27:12.653254'
+  Diagnosis: from
+  DischargeTime: '2024-05-08 14:38:21.278550'
+  Outcome: Discharged
+  PatientID: fff65f25-ff2b-4821-a71e-631fdea1dcc8
+  PatientSatisfactionScore: 2.7701757646510807
+  TreatmentCost: 3662
+  TreatmentStartTime: '2024-03-26 02:58:27.428155'
+  TriageTime: '2024-05-14 19:59:29.955406'
+- ArrivalTime: '2024-08-15 23:06:58.160764'
+  Diagnosis: wide
+  DischargeTime: '2024-03-25 17:27:50.554356'
+  Outcome: Admitted
+  PatientID: 5fb15317-959c-439f-9325-f0b0b84f14f6
+  PatientSatisfactionScore: 4.058921097773478
+  TreatmentCost: 2043
+  TreatmentStartTime: '2024-04-19 07:07:11.847176'
+  TriageTime: '2024-05-06 09:47:22.444837'
+- ArrivalTime: '2024-07-30 16:25:23.293265'
+  Diagnosis: threat
+  DischargeTime: '2024-08-14 13:02:47.389869'
+  Outcome: Referred
+  PatientID: 7dfbc406-7908-4808-85e0-b0e0b1425a42
+  PatientSatisfactionScore: 3.294100314552534
+  TreatmentCost: 4852
+  TreatmentStartTime: '2024-05-24 02:20:16.514376'
+  TriageTime: '2024-03-11 14:34:45.932325'
+- ArrivalTime: '2024-08-02 00:39:08.127382'
+  Diagnosis: benefit
+  DischargeTime: '2024-09-03 11:05:53.759515'
+  Outcome: Admitted
+  PatientID: b1196ef7-1df9-4b2f-8e4f-35e1d2f45ca8
+  PatientSatisfactionScore: 2.2293682390438563
+  TreatmentCost: 4592
+  TreatmentStartTime: '2024-01-17 23:14:15.614144'
+  TriageTime: '2024-07-13 21:20:05.730810'
+- ArrivalTime: '2024-04-18 15:45:40.145909'
+  Diagnosis: between
+  DischargeTime: '2024-06-16 17:58:15.986036'
+  Outcome: Admitted
+  PatientID: d29083fd-0c55-4bad-8ef8-93c43c219f16
+  PatientSatisfactionScore: 2.640860317355994
+  TreatmentCost: 965
+  TreatmentStartTime: '2024-07-07 11:38:20.853524'
+  TriageTime: '2024-04-19 12:01:17.321557'
+- ArrivalTime: '2024-02-24 17:22:00.047382'
+  Diagnosis: pattern
+  DischargeTime: '2024-05-22 01:48:32.981309'
+  Outcome: Discharged
+  PatientID: 4cc61173-3e25-4d16-976b-60f69cc65924
+  PatientSatisfactionScore: 1.115260448197419
+  TreatmentCost: 1202
+  TreatmentStartTime: '2024-06-05 02:30:13.414757'
+  TriageTime: '2024-05-16 02:26:34.839097'
+- ArrivalTime: '2024-05-01 21:22:18.346605'
+  Diagnosis: Congress
+  DischargeTime: '2024-06-15 18:51:42.243901'
+  Outcome: Admitted
+  PatientID: 31db272c-baa9-44ce-b319-98bfc7c04ed4
+  PatientSatisfactionScore: 2.93199625086887
+  TreatmentCost: 2675
+  TreatmentStartTime: '2024-01-04 17:53:20.264202'
+  TriageTime: '2024-01-05 12:59:54.157016'
+- ArrivalTime: '2024-01-18 08:10:11.159666'
+  Diagnosis: upon
+  DischargeTime: '2024-09-01 20:15:57.907187'
+  Outcome: Referred
+  PatientID: 5c38601a-eccd-452a-b42f-500b311061ab
+  PatientSatisfactionScore: 3.155801699472631
+  TreatmentCost: 1549
+  TreatmentStartTime: '2024-04-17 20:27:18.251491'
+  TriageTime: '2024-06-27 16:54:16.484808'
+- ArrivalTime: '2024-02-20 13:32:22.110369'
+  Diagnosis: town
+  DischargeTime: '2024-08-19 17:06:56.017172'
+  Outcome: Referred
+  PatientID: ce0b0c2b-9b3a-47e3-bc41-a119d64f8a5a
+  PatientSatisfactionScore: 2.0185206449498083
+  TreatmentCost: 1148
+  TreatmentStartTime: '2024-03-03 11:54:25.710178'
+  TriageTime: '2024-08-28 17:53:17.110486'
+- ArrivalTime: '2024-09-07 00:13:32.638664'
+  Diagnosis: explain
+  DischargeTime: '2024-02-24 19:25:45.775744'
+  Outcome: Admitted
+  PatientID: da1745da-794f-4530-8221-41c7eb3f7b3e
+  PatientSatisfactionScore: 2.4839460842042747
+  TreatmentCost: 3509
+  TreatmentStartTime: '2024-02-29 21:27:19.048788'
+  TriageTime: '2024-09-07 13:25:45.349536'
+- ArrivalTime: '2024-01-24 05:28:31.672780'
+  Diagnosis: wait
+  DischargeTime: '2024-03-15 15:54:04.259145'
+  Outcome: Referred
+  PatientID: 6f67fece-5eda-4b64-bb45-04140e3fb02f
+  PatientSatisfactionScore: 4.073905274104332
+  TreatmentCost: 4068
+  TreatmentStartTime: '2024-01-28 22:46:50.364144'
+  TriageTime: '2024-07-08 09:13:13.451086'
+- ArrivalTime: '2024-03-17 12:50:16.196381'
+  Diagnosis: score
+  DischargeTime: '2024-06-21 11:34:28.143250'
+  Outcome: Referred
+  PatientID: b1a398c6-f6d8-4587-9153-391cd87089b1
+  PatientSatisfactionScore: 1.0246397442508308
+  TreatmentCost: 3230
+  TreatmentStartTime: '2024-06-16 18:05:37.997412'
+  TriageTime: '2024-07-10 06:40:32.670086'
+- ArrivalTime: '2024-03-02 21:17:08.690832'
+  Diagnosis: interest
+  DischargeTime: '2024-04-20 16:25:29.450943'
+  Outcome: Discharged
+  PatientID: 934f3b07-02ed-4f97-a221-8f8273085018
+  PatientSatisfactionScore: 1.199696526366269
+  TreatmentCost: 974
+  TreatmentStartTime: '2024-06-13 08:07:55.188378'
+  TriageTime: '2024-03-05 10:39:09.189221'
+- ArrivalTime: '2024-06-03 05:07:23.635700'
+  Diagnosis: down
+  DischargeTime: '2024-01-06 21:40:39.523026'
+  Outcome: Admitted
+  PatientID: 6155244a-e407-4dee-a76d-3ed8eb0a7c9f
+  PatientSatisfactionScore: 2.2842466940045747
+  TreatmentCost: 3982
+  TreatmentStartTime: '2024-05-05 06:00:07.314802'
+  TriageTime: '2024-07-16 08:33:56.028683'
+- ArrivalTime: '2024-08-23 20:41:09.572252'
+  Diagnosis: former
+  DischargeTime: '2024-07-09 09:07:51.216805'
+  Outcome: Discharged
+  PatientID: a4155b74-9c03-4750-828e-f91b3c26159f
+  PatientSatisfactionScore: 3.105763860295451
+  TreatmentCost: 1768
+  TreatmentStartTime: '2024-06-23 09:49:21.498095'
+  TriageTime: '2024-05-13 22:08:37.341414'
+- ArrivalTime: '2024-05-16 00:52:40.466131'
+  Diagnosis: along
+  DischargeTime: '2024-08-20 08:21:37.992504'
+  Outcome: Discharged
+  PatientID: 7de02031-b5a3-4cc2-a122-904222c928d6
+  PatientSatisfactionScore: 1.9172121795393315
+  TreatmentCost: 412
+  TreatmentStartTime: '2024-04-19 00:11:03.662240'
+  TriageTime: '2024-09-04 14:42:21.350311'
+- ArrivalTime: '2024-04-02 07:22:06.425979'
+  Diagnosis: environmental
+  DischargeTime: '2024-07-10 19:57:40.569774'
+  Outcome: Admitted
+  PatientID: 621b41a4-9ea9-46f1-a24c-b09e52695a3f
+  PatientSatisfactionScore: 2.8166546510255377
+  TreatmentCost: 2753
+  TreatmentStartTime: '2024-09-07 02:02:33.556100'
+  TriageTime: '2024-07-29 17:05:13.915249'
+- ArrivalTime: '2024-06-05 04:37:43.363592'
+  Diagnosis: describe
+  DischargeTime: '2024-01-20 22:50:55.467580'
+  Outcome: Discharged
+  PatientID: cab9d274-a9c9-4451-bd1d-ae1d7430e42d
+  PatientSatisfactionScore: 2.668082565117439
+  TreatmentCost: 422
+  TreatmentStartTime: '2024-01-13 00:00:07.968775'
+  TriageTime: '2024-08-20 03:05:26.367259'
+- ArrivalTime: '2024-03-10 08:31:30.497840'
+  Diagnosis: above
+  DischargeTime: '2024-06-13 06:58:42.295411'
+  Outcome: Discharged
+  PatientID: fb9322d2-6572-4a94-bdef-a6c57cad2881
+  PatientSatisfactionScore: 3.466999822466366
+  TreatmentCost: 4608
+  TreatmentStartTime: '2024-09-16 02:02:05.823440'
+  TriageTime: '2024-05-16 07:30:52.389419'
+- ArrivalTime: '2024-05-15 22:11:19.694696'
+  Diagnosis: recently
+  DischargeTime: '2024-06-21 05:23:38.001410'
+  Outcome: Discharged
+  PatientID: b01fd671-34d2-4e66-a3e6-3aa273664af1
+  PatientSatisfactionScore: 2.6874162113973186
+  TreatmentCost: 4087
+  TreatmentStartTime: '2024-03-30 13:19:16.618348'
+  TriageTime: '2024-08-21 18:32:34.662222'
+- ArrivalTime: '2024-01-13 12:11:36.207158'
+  Diagnosis: establish
+  DischargeTime: '2024-04-27 16:26:40.757263'
+  Outcome: Referred
+  PatientID: 32ff3c96-42a7-4612-928a-3cf69cf6622b
+  PatientSatisfactionScore: 3.60675631521664
+  TreatmentCost: 4425
+  TreatmentStartTime: '2024-08-02 20:07:50.196696'
+  TriageTime: '2024-02-02 01:41:04.775137'
+- ArrivalTime: '2024-09-04 20:48:03.668953'
+  Diagnosis: soon
+  DischargeTime: '2024-04-18 04:13:15.632327'
+  Outcome: Referred
+  PatientID: e9c58f4c-2d93-4659-adb5-f683ffc04774
+  PatientSatisfactionScore: 2.6335164938475653
+  TreatmentCost: 1609
+  TreatmentStartTime: '2024-07-10 00:27:33.744441'
+  TriageTime: '2024-04-05 13:24:17.398071'
+- ArrivalTime: '2024-01-22 11:51:23.761213'
+  Diagnosis: process
+  DischargeTime: '2024-07-28 00:31:29.250510'
+  Outcome: Admitted
+  PatientID: 699fc2f8-d21c-4bdd-9656-455a5585ea43
+  PatientSatisfactionScore: 2.7309447731467116
+  TreatmentCost: 2198
+  TreatmentStartTime: '2024-03-08 04:27:23.766897'
+  TriageTime: '2024-07-31 20:20:35.304027'
+- ArrivalTime: '2024-08-01 18:41:38.016014'
+  Diagnosis: establish
+  DischargeTime: '2024-08-03 20:13:34.112976'
+  Outcome: Referred
+  PatientID: 06ca583d-b3ce-483a-b997-39f593553956
+  PatientSatisfactionScore: 4.945528088403842
+  TreatmentCost: 2815
+  TreatmentStartTime: '2024-05-22 10:07:01.889959'
+  TriageTime: '2024-01-16 11:08:07.391978'
+- ArrivalTime: '2024-08-24 07:13:58.665133'
+  Diagnosis: face
+  DischargeTime: '2024-04-01 23:36:06.790532'
+  Outcome: Referred
+  PatientID: abfb8d54-bdbd-44cf-ba4c-548101de8438
+  PatientSatisfactionScore: 3.3103928412691332
+  TreatmentCost: 4300
+  TreatmentStartTime: '2024-01-08 07:31:02.405761'
+  TriageTime: '2024-02-06 20:59:17.790665'
+- ArrivalTime: '2024-08-27 03:22:17.786687'
+  Diagnosis: music
+  DischargeTime: '2024-09-07 11:54:27.967798'
+  Outcome: Referred
+  PatientID: 382e98aa-82b0-4e75-9bf6-6b393a83285c
+  PatientSatisfactionScore: 2.731239120365417
+  TreatmentCost: 1967
+  TreatmentStartTime: '2024-02-04 17:09:12.149460'
+  TriageTime: '2024-03-02 20:06:01.674343'
+- ArrivalTime: '2024-05-25 03:42:54.621108'
+  Diagnosis: voice
+  DischargeTime: '2024-03-09 12:37:02.629559'
+  Outcome: Referred
+  PatientID: 8c4f68cc-7f3c-4e75-af28-d6f1e6e7ae34
+  PatientSatisfactionScore: 2.8840538807630085
+  TreatmentCost: 2467
+  TreatmentStartTime: '2024-03-09 11:15:46.260338'
+  TriageTime: '2024-01-13 06:44:10.309904'
+- ArrivalTime: '2024-04-09 03:26:18.431668'
+  Diagnosis: hospital
+  DischargeTime: '2024-02-07 17:43:32.229647'
+  Outcome: Discharged
+  PatientID: dab52165-e82e-49fe-a9b1-95d0b108c315
+  PatientSatisfactionScore: 4.926967310162866
+  TreatmentCost: 3186
+  TreatmentStartTime: '2024-05-13 23:32:18.551045'
+  TriageTime: '2024-05-16 08:46:41.989162'
+- ArrivalTime: '2024-01-20 16:18:39.148536'
+  Diagnosis: night
+  DischargeTime: '2024-05-05 19:22:04.127949'
+  Outcome: Discharged
+  PatientID: 1b599d35-c57a-46dd-a172-f59a23a7dc4e
+  PatientSatisfactionScore: 1.5052288997223755
+  TreatmentCost: 3955
+  TreatmentStartTime: '2024-02-09 10:14:24.518699'
+  TriageTime: '2024-04-13 23:28:50.752039'

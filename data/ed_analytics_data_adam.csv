@@ -1,0 +1,101 @@
+SUBJID,TRT01P,TRT01A,ADAESEV,ADAEOUT
+SUBJ000,Drug B,No,Moderate,Ongoing
+SUBJ001,Drug B,Yes,Severe,Resolved
+SUBJ002,Drug A,No,Mild,Ongoing
+SUBJ003,Drug B,Yes,Mild,Resolved
+SUBJ004,Drug B,No,Moderate,Resolved
+SUBJ005,Drug A,Yes,Severe,Ongoing
+SUBJ006,Drug B,No,Severe,Ongoing
+SUBJ007,Drug B,Yes,Moderate,Not Resolved
+SUBJ008,Drug B,No,Mild,Not Resolved
+SUBJ009,Drug B,No,Mild,Not Resolved
+SUBJ010,Drug A,No,Severe,Ongoing
+SUBJ011,Drug B,No,Moderate,Resolved
+SUBJ012,Drug A,No,Mild,Ongoing
+SUBJ013,Drug A,Yes,Mild,Not Resolved
+SUBJ014,Drug B,No,Severe,Resolved
+SUBJ015,Drug A,Yes,Severe,Ongoing
+SUBJ016,Drug B,No,Moderate,Resolved
+SUBJ017,Drug A,Yes,Moderate,Resolved
+SUBJ018,Drug B,No,Mild,Not Resolved
+SUBJ019,Drug B,Yes,Severe,Ongoing
+SUBJ020,Drug A,Yes,Severe,Ongoing
+SUBJ021,Drug B,Yes,Severe,Not Resolved
+SUBJ022,Drug B,Yes,Severe,Ongoing
+SUBJ023,Drug B,No,Moderate,Resolved
+SUBJ024,Drug A,No,Severe,Not Resolved
+SUBJ025,Drug A,Yes,Mild,Not Resolved
+SUBJ026,Drug B,No,Moderate,Ongoing
+SUBJ027,Drug B,Yes,Severe,Ongoing
+SUBJ028,Drug B,Yes,Severe,Ongoing
+SUBJ029,Drug B,Yes,Severe,Resolved
+SUBJ030,Drug B,Yes,Moderate,Resolved
+SUBJ031,Drug B,No,Moderate,Not Resolved
+SUBJ032,Drug B,No,Mild,Ongoing
+SUBJ033,Drug A,Yes,Moderate,Ongoing
+SUBJ034,Drug B,No,Moderate,Ongoing
+SUBJ035,Drug B,No,Mild,Not Resolved
+SUBJ036,Drug B,Yes,Severe,Not Resolved
+SUBJ037,Drug B,No,Moderate,Resolved
+SUBJ038,Drug B,Yes,Moderate,Resolved
+SUBJ039,Drug B,Yes,Mild,Resolved
+SUBJ040,Drug B,No,Moderate,Resolved
+SUBJ041,Drug A,No,Mild,Resolved
+SUBJ042,Drug A,No,Severe,Ongoing
+SUBJ043,Drug B,Yes,Moderate,Ongoing
+SUBJ044,Drug A,No,Severe,Resolved
+SUBJ045,Drug B,Yes,Moderate,Not Resolved
+SUBJ046,Drug B,No,Moderate,Ongoing
+SUBJ047,Drug B,Yes,Mild,Not Resolved
+SUBJ048,Drug A,Yes,Severe,Resolved
+SUBJ049,Drug B,No,Mild,Not Resolved
+SUBJ050,Drug A,No,Severe,Resolved
+SUBJ051,Drug A,No,Severe,Not Resolved
+SUBJ052,Drug A,Yes,Moderate,Resolved
+SUBJ053,Drug A,Yes,Severe,Ongoing
+SUBJ054,Drug B,No,Mild,Ongoing
+SUBJ055,Drug A,No,Mild,Not Resolved
+SUBJ056,Drug A,No,Mild,Resolved
+SUBJ057,Drug B,Yes,Severe,Ongoing
+SUBJ058,Drug A,Yes,Moderate,Ongoing
+SUBJ059,Drug A,No,Mild,Ongoing
+SUBJ060,Drug A,No,Severe,Resolved
+SUBJ061,Drug A,No,Moderate,Resolved
+SUBJ062,Drug A,Yes,Moderate,Not Resolved
+SUBJ063,Drug A,No,Moderate,Resolved
+SUBJ064,Drug B,No,Mild,Ongoing
+SUBJ065,Drug A,No,Mild,Resolved
+SUBJ066,Drug A,Yes,Severe,Resolved
+SUBJ067,Drug A,Yes,Severe,Ongoing
+SUBJ068,Drug B,No,Mild,Not Resolved
+SUBJ069,Drug A,No,Severe,Not Resolved
+SUBJ070,Drug A,No,Severe,Ongoing
+SUBJ071,Drug B,No,Moderate,Resolved
+SUBJ072,Drug A,No,Moderate,Resolved
+SUBJ073,Drug A,No,Mild,Ongoing
+SUBJ074,Drug B,Yes,Moderate,Ongoing
+SUBJ075,Drug A,No,Mild,Resolved
+SUBJ076,Drug A,Yes,Severe,Not Resolved
+SUBJ077,Drug A,No,Severe,Ongoing
+SUBJ078,Drug A,Yes,Severe,Ongoing
+SUBJ079,Drug B,Yes,Severe,Resolved
+SUBJ080,Drug B,No,Severe,Not Resolved
+SUBJ081,Drug A,No,Moderate,Not Resolved
+SUBJ082,Drug A,No,Moderate,Resolved
+SUBJ083,Drug A,No,Severe,Not Resolved
+SUBJ084,Drug B,No,Severe,Not Resolved
+SUBJ085,Drug A,Yes,Mild,Ongoing
+SUBJ086,Drug B,Yes,Severe,Ongoing
+SUBJ087,Drug A,Yes,Moderate,Ongoing
+SUBJ088,Drug A,Yes,Moderate,Not Resolved
+SUBJ089,Drug A,No,Mild,Ongoing
+SUBJ090,Drug B,No,Mild,Ongoing
+SUBJ091,Drug B,Yes,Moderate,Not Resolved
+SUBJ092,Drug B,No,Severe,Not Resolved
+SUBJ093,Drug B,No,Severe,Ongoing
+SUBJ094,Drug A,No,Moderate,Ongoing
+SUBJ095,Drug B,Yes,Moderate,Ongoing
+SUBJ096,Drug B,No,Severe,Not Resolved
+SUBJ097,Drug B,Yes,Moderate,Ongoing
+SUBJ098,Drug B,No,Mild,Not Resolved
+SUBJ099,Drug A,Yes,Moderate,Not Resolved

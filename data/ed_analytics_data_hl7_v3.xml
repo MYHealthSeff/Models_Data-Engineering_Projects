@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="9084fb56-4dd3-4ff6-aedd-ce951387b317"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="fb601b08-72e3-43c4-815a-339d8dc85479"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="c8ab7ec6-34ac-47af-b00c-7cfa5ac036a2"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="f72b3a35-5645-4b17-ac4c-90336eee1788"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="edfcadd2-1301-451c-a9a3-ee631ecad0b3"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="17178fa8-f358-48c3-8c88-2d781e2299c4"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="e51964f3-a0c1-49dd-85a1-ef8fc71e968e"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="90c7ad1e-016c-457f-97d5-a07d21caa2c0"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="bb325527-9081-4805-bec3-dbc7bc6f4122"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="9a077c3c-9db5-4a0e-ada6-9d018386178a"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="189228b8-c224-402e-b8cd-85ae05b7bc6a"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="3c9462fe-248b-4f96-a209-93a7e00f2afa"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="b9a2a55f-685b-4fb8-af5d-3bc93c7d20f3"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="c7a70256-c230-480a-9ecb-c8fa21beae18"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a9d5519c-f226-4189-9cc8-6f1a4ab7168d"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="fd410ee0-4c06-4074-928f-0d3b59f06c43"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="75c29bdb-c5ff-417a-8a91-374f9d73e381"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="f83a7adc-c0f3-40dc-bd71-13ba2abf71d9"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="49be17bb-5891-4a74-bc28-d9a1268f0e33"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="b73e83e7-49bb-4b40-8871-8ea349f6d03f"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="16c852d1-4718-45ba-aca1-514249e4382e"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="0e1f0104-9e65-4d0d-ba17-d5c641f1f2dd"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="c9c5157d-a6ed-4107-b94a-7898e0b9bd78"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="aa577740-a05a-4229-ab2d-e3021ef61c35"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="f72a3392-7e58-46f8-a787-510022ffe99f"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a1c908b2-53f7-49b1-bcf3-c6e78a367c5e"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="98f88cbb-c508-4fcc-8828-06aea7269d84"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="3cab748c-89c7-4f82-a172-10b5026f41e2"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="7e3b6a7d-10c3-42ca-8a4a-44e67a7b2c9f"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="185921b7-9337-4e68-aebd-9d4b6c4e8af7"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a919ebf9-5e6b-433f-82b8-36a61b040127"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="1ec7a7d8-f3f8-4d51-b118-919525142e89"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a6d428c1-947e-442f-be67-627c1768a3df"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="723dac5f-16e9-43a9-b062-ceff2bc99974"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a7ec9565-67d5-4bb3-8949-54b21dc9a6d7"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="6c55ea1d-2f7f-467e-ad47-b6f71a5125d2"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="b61f337f-4398-4e56-9c62-74dfc47e603e"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="016ca120-abff-4074-984d-061955cc433e"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="d2b08a46-8c1b-4a00-93cc-1b097595099d"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="fffb62a9-251b-4737-89b9-8d394b0737cb"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="f20ebd85-4e6f-4d89-99b3-03efa904dc1b"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="338e284f-0f39-42ca-b10b-4a71f5abd141"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="fa35a450-53c6-417d-8e8f-55a66cc01fa5"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="296a6856-dd36-4f43-9a6e-1d10df752990"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="39a52d75-bdcf-4985-a60d-403f972454a4"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="af69cfd9-4e16-4bb9-97f3-4d5d338d4263"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="816aa06f-5a77-494c-aec9-2b4a638c6cc1"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="b4bcb353-8b88-473d-a90c-2a7d28d7425b"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="2d057788-10da-4b97-aa0d-71a423b8fdc8"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="d01df745-bec5-478b-8258-4792437f76b6"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="7a0e117f-0f6d-40be-8905-79262e698f72"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="ac2a8550-e7b6-4739-a409-12dc9762d607"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="37bf39e7-41ec-42af-b7ec-ca9ca7f4ce0e"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="5d421ffc-b42d-444e-9567-29a14ad1a1ca"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="b9dbdbb1-2bc7-4c69-8115-279b59294b2b"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a85139dc-f130-4c92-b631-513c8cd2f155"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="7ce65482-a5b5-438e-889a-8399349fb43c"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="d353b00f-7d95-4915-8643-8da5bae9da6d"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="f73b58ff-19ea-4530-aeb9-3ba1890a60ac"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="c698c9b5-ba4d-49ec-ab58-34bd29928d4b"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="507408ae-a417-4826-8453-870a03b9790a"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="9261f1b2-6aeb-4dc4-a13a-b6183ed3e368"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="62d194d1-19a1-4eba-99d1-a9805331e14b"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="8bcb64ba-9135-4c58-b619-26b9d8964ce8"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="e7124599-a51f-4bee-8315-f52aee2378d4"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="61f3b316-3682-49b2-8c9f-60ec73a9fd17"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a1e4a778-8d4b-4a09-93ae-5555fbd3400c"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="ea1d2e4f-265a-471d-ae06-222a207ffb81"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="e4e7930a-2038-46db-b540-5972e67f0dfd"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="dfdbf9bf-7ca1-47c0-9276-90952cb9e29c"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="5e1a7f74-a86a-4805-b4e0-92e606a9e9d4"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="faab3a17-da15-4d71-bed8-a4072c060cf1"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="cddc0e7d-b0c5-4ce3-94bc-2104590ac31c"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="6b3dea0e-10ee-46c5-be43-a45cdb567e09"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="4698512a-9691-4ced-8321-8aa41df8773a"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="738db39f-ee95-4051-9faa-617db4fc85b1"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="b81be589-1942-45f5-a061-5d4bef12becc"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="6c0c5f6f-ea78-484e-8d3e-a87dc85bbdc7"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="183ef5f9-242d-441a-a31f-3dcc42a0744f"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="62c9ad5a-e5df-4415-9b5f-27a363b51f76"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="64bea26d-4519-4c3f-9682-a5369c9ef14c"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="5aaeca3c-73cc-4205-ab10-8f1cf00185bc"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="15da1c3d-ccc7-4ffa-8836-ac3f5a39c5ff"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="1c917067-6af8-4f4a-abb7-fccce2eb68aa"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="8de71f64-ecd2-471d-9461-7fc8d5e3c0b2"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="81ed92f6-aaa7-4267-b585-27400b3cfab7"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="a42c88ab-017a-46e9-9e4d-fed39dd58207"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="0132c067-a247-43ef-9166-4ddbbdc26584"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="91913566-ba30-4903-940a-87e6bce7e57a"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="d35cc2aa-4f65-4a2e-aa02-d537f8c115b5"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="07d6b49d-11c5-4fde-96da-f8343a93057a"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="ccca54d7-ab0b-46bf-839a-f538a6169703"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="c8e1d8cf-501b-4eef-aede-6a9c35a320da"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="65234429-665d-4e20-8fea-55004846dc0f"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="05817a0f-bb89-4c4a-8bb6-e98f1185fe8f"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="baf3dbdc-ef7c-41da-b349-e95b16a25be1"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="efa0a54a-a0b8-4ef9-a2c6-1cb0f586660d"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="25169e8a-92c1-4baa-8ad0-d4801d91a3a8"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="5b7cbbaa-ac18-4185-9d10-5465208d686c"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<ClinicalDocument>
+  <id root="urn:hl7-org:v3" extension="711477cc-d4dc-4c78-ae1b-f22c73c22c72"/>
+  <code code="ED"/>
+</ClinicalDocument>
+
