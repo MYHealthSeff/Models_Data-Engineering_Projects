@@ -8,10 +8,11 @@ Source: Extracted from real-world claims, reimbursement data, and electronic hea
 Processing: Cleaned, structured, and optimized for AI/ML pipelines and analytics.  
 Formats Included: JSON, YAML, CSV, XML (FHIR, HL7 v3, DICOM metadata). 
 
-File Details 
+Details 
 
 ed_analytics_data.json → Emergency department analytics data in structured JSON format for AI-driven insights.  
 adam.csv → Analyzed clinical data and financial transactions for hospital cost estimation.  
+ed_analytics_data_ccd.xml → HL7 CDA Continuity of Care Document (CCD) containing structured emergency department patient records.
 hl7_v3.xml → HL7 v3-formatted patient records for healthcare interoperability and messaging. patient_tracking_data_hl7_v3.xml → Structured patient flow tracking data using HL7 v3 messaging standards.  
 icd10_mappings.csv → ICD-10 to procedure mappings for structured medical coding and billing. dicom_metadata.json → Metadata extracted from DICOM medical imaging files (excluding images). 
 
