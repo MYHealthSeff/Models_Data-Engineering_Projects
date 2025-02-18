@@ -1,26 +1,26 @@
-Preprocessed Healthcare Pricing Dataset
+Preprocessed Datasets 
 
-Overview:
-This dataset contains preprocessed medical billing data, including pricing, payer information, and service classifications. It is structured to support AI/ML models, NLP processing, and data analysis.
+This folder contains structured healthcare datasets designed for AI, ML model training, and predictive analytics. The datasets support interoperability, cost estimation, and data-driven insights in the healthcare domain.  
 
-Data Source:
-* Extracted from real-world claims and reimbursement data
-* Cleaned and structured for predictive modeling and cost estimation
+Overview 
 
-File Details:
-Ed_analytics_data.json: Structured FHIR healthcare data.  
-ICD-10 to procedure mappings for medical coding.  
-HL7 v2 messages for patient records.  
-DICOM metadata samples (excluding images).  
-Generic dataset for ML preprocessing.  
-description: Medical procedure or product name
-code|1, code|2: Unique medical codes (CDM, HCPCS, CPT, etc.)
-payer_name: Name of the insurance provider
-standard_charge|gross: Gross billing price before discounts
-standard_charge|negotiated_dollar: Negotiated price between provider and insurer
-estimated_amount: Expected patient cost after insurance
+Source: Extracted from real-world claims, reimbursement data, and electronic health records (EHR).  
+Processing: Cleaned, structured, and optimized for AI/ML pipelines and analytics.  
+Formats Included: JSON, YAML, CSV, XML (FHIR, HL7 v3, DICOM metadata). 
 
-Potential Use Cases:
-Price Transparency Analysis: Compare real vs. estimated costs
-ML Model Training: Train models to predict out-of-pocket expenses
-Data Visualization: Generate insights into medical pricing trends
+File Details 
+
+ed_analytics_data.json → Emergency department analytics data in structured JSON format for AI-driven insights.  
+adam.csv → Analyzed clinical data and financial transactions for hospital cost estimation.  
+hl7_v3.xml → HL7 v3-formatted patient records for healthcare interoperability and messaging. patient_tracking_data_hl7_v3.xml → Structured patient flow tracking data using HL7 v3 messaging standards.  
+icd10_mappings.csv → ICD-10 to procedure mappings for structured medical coding and billing. dicom_metadata.json → Metadata extracted from DICOM medical imaging files (excluding images). 
+
+Potential Use Cases 
+
+Price Transparency Analysis: Compare real vs. negotiated medical costs.  
+Machine Learning Model Training: Predict out-of-pocket expenses for patients.  
+Emergency Department Analytics: Track patient flow, wait times, and admission trends.  
+Interoperability Testing: Simulate FHIR and HL7 data integration in healthcare systems.  
+Data Visualization & Analysis: Extract insights into healthcare pricing trends and cost drivers. 
+
+ 
